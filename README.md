@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/zealoushacker-aviation-weather-mcp-badge.png)](https://mseep.ai/app/zealoushacker-aviation-weather-mcp)
+
 # Aviation Weather MCP Server
 
 A Model Context Protocol (MCP) server that provides access to aviation weather data from aviationweather.gov. This server enables LLMs to fetch and analyze METAR, TAF, PIREPs, AIRMETs, and other aviation weather information.
